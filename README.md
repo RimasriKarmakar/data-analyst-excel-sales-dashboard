@@ -31,10 +31,18 @@ The dashboard is designed for full-screen executive viewing (Alt + V + U) with g
 * End_to_End_Project_using_Excel_practice.xlsm (Macro-Enabled Excel File)
 * dashboard.png (Dashboard Screenshot)
 * README.md (Project Info)
+* Dashboard_macro_demonstration ( excel_dashboard_demo.gif)
 
 ---
 
-## 🚀 How to Use It
-1. Download the .xlsm file and open it in desktop Microsoft Excel.
-2. Click *"Enable Content"* or *"Enable Macros"* at the top bar (needed for the buttons to work).
-3. Use the colored regional buttons at the top to filter all data instantly!
+## 🚀 How to Interact with the Live File
+
+To experience the fully interactive elements and custom macro navigation buttons locally, please follow these quick steps to bypass Microsoft's default internet security blocks:
+
+1. *Download* the End to End Project using Excel practice.xlsm file from this repository.
+2. Before opening it, locate the file in your downloads folder, *right-click* it, and select *Properties*.
+3. At the very bottom of the *General* tab, look for the *Security* section and check the box that says *Unblock*. 
+4. Click *Apply* and then *OK*.
+5. Open the file and click *Enable Content* or *Enable Macros* at the top bar.
+
+Note: The interactive features require a desktop version of Microsoft Excel (2019 or newer recommended).
